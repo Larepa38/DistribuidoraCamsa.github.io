@@ -1,0 +1,218 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+
+/* INDEX */
+.body_head{
+    color: #ffffff;
+}
+.nav_head{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.logo_empresa{
+    width: 150px;
+}
+
+.carousel-control-next:hover, 
+.carousel-control-prev:hover {
+    color: inherit;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.Quines_somos{
+    color: black;
+    align-items: center;
+    margin: 25px 100px;
+}
+
+.list{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list p{
+    padding: 10px 0 10px 0;
+}
+
+.list h2{
+    margin: 10px 0 10px 0;
+}
+
+.list ul li{
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+}
+
+.list li{
+    margin: 10px;
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+}
+
+#show_bg{
+    background-image:
+    linear-gradient(to bottom, #1f445f75, #a80b0056),
+    url('img/bg_img.png');
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    color: white;
+    padding: 150px;
+    font-size: 50px;
+}
+.Contacto{
+    align-items: center;
+    color: black;
+    margin: 25px 100px;
+}
+
+.Contacto h1{
+    color: black;
+    background: #6363635d;
+}
+
+.Contacto li{
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+}
+
+.forms{
+    padding: 20px;
+}
+
+.forms div{
+    padding: 15px;
+    font-size: 25px;
+}
+
+/* CATALOGO */
+label{
+    color: #000000;
+}
+
+header {
+    background-color: #1f445f;
+    color: #000000;
+    padding: 1rem;
+    text-align: center;
+} 
+
+main {
+    margin: 20px;
+}
+
+#product-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    background: white;
+    box-shadow: 0 2px 5px rgb(0, 0, 0);
+    text-align: center;
+}
+
+.product h3 {
+    margin: 0 0 10px;
+    color: #000000;
+}
+
+.product p {
+    margin: 5px 0;
+    color: #000000;
+
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #a80c00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a80c00;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* FOOTER */
+
+.footer{
+    align-items: center;
+}
+
+.footer_body_head{
+    align-items: center;
+}
+
+.footer_info{
+    background-color: #212529;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link-footer{
+    font-size: 50px;
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+    color: white;
+}
+.nav-link-footer:hover{
+    border-bottom: 2px solid #ffffff;
+}
+
+.contact{
+    color: white;
+    list-style: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contact a{
+    color: white;
+}
+.social_media{
+    list-style: none;
+}
+.social_media a{
+    align-items: center;
+    display: flex;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.social_media_content{
+    align-items: center;
+    display: flex;
+}
+.social_media_logos{
+    width: 75px;
+}

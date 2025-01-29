@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre": "Radiador Chev Aveo",
+        "precio": 45,
+        "categoria": "Radiadores",
+        "imagen": "./img/27.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Radiador Gran Viatara",
+        "precio": 90,
+        "categoria": "Radiadores",
+        "imagen": "./img/30.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Radiador Chev D-Max 2.4",
+        "precio": 100,
+        "categoria": "Radiadores",
+        "imagen": "./img/28.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Radiador Chev Sail 1.4",
+        "precio": 45,
+        "categoria": "Radiadores",
+        "imagen": "./img/29.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Filtro Chev Aveo",
+        "precio": 5,
+        "categoria": "Filtros",
+        "imagen": "./img/67.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Filtro Aire Acondicionado Chev Spark GT",
+        "precio": 6,
+        "categoria": "Filtros",
+        "imagen": "./img/68.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Filtro Aire Motor Chev Spark GT",
+        "precio": 5,
+        "categoria": "Filtros",
+        "imagen": "./img/69.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Filtro Chev Sail 1.4",
+        "precio": 5,
+        "categoria": "Filtros",
+        "imagen": "./img/70.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Mesa de Susp. Chev Kia Rio",
+        "precio": 38,
+        "categoria": "Mesas",
+        "imagen": "./img/77.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Mesa de Susp. Aveo",
+        "precio": 20,
+        "categoria": "Mesas",
+        "imagen": "./img/74.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Mesa de Susp. Spark II",
+        "precio": 10,
+        "categoria": "Mesas",
+        "imagen": "./img/75.png"
+    },
+    {
+        "id": 12,
+        "nombre": "Mesa de Susp. Kia Picanto",
+        "precio": 31,
+        "categoria": "Mesas",
+        "imagen": "./img/76.png"
+    },
+    {
+        "id": 13,
+        "nombre": "Pastilla de freno Chev Aveo",
+        "precio": 12,
+        "categoria": "Pastillas",
+        "imagen": "./img/243.png"
+    },
+    {
+        "id": 14,
+        "nombre": "Pastilla de freno Chev Saprk II",
+        "precio": 12,
+        "categoria": "Pastillas",
+        "imagen": "./img/244.png"
+    },
+    {
+        "id": 15,
+        "nombre": "Pastilla de freno Chev Corsa",
+        "precio": 12,
+        "categoria": "Pastillas",
+        "imagen": "./img/245.png"
+    },
+    {
+        "id": 16,
+        "nombre": "Pastilla de freno Chev Sail 1.4",
+        "precio": 12,
+        "categoria": "Pastillas",
+        "imagen": "./img/246.png"
+    }
+]
